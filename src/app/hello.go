@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"greet"
+	"greet/greet1"
 )
 
 func main() {
-	fmt.Println(greet.Morning)
+	fmt.Println(greet1.Morning)
 }

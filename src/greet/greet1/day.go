@@ -1,4 +1,4 @@
-package greet
+package greet1
 
 var morning = "Goodmorning"
 
